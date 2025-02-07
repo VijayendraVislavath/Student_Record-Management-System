@@ -2,6 +2,7 @@
 This is a C++ Console Application designed to manage student records efficiently. The system includes authentication, an admin dashboard, and various student management functionalities.
 
 Features
+
 ✅ Authentication System – Password verification before access
 
 ✅ Student Record Management – Add, edit, delete, and view student records
